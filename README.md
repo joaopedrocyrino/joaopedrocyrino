@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Solidity, Circom and Rust :)
+
 <div align="center">
   <a href="https://github.com/joaopedrocyrino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedrocyrino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
