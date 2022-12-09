@@ -1,4 +1,19 @@
-### Hi there 👋
+# 💫 About Me:
+🌱 I’m currently learning Solidity, Circom and Rust :)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=joaopedrocyrino&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=joaopedrocyrino&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrocyrino&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=joaopedrocyrino&icon=5&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+<!-- ### Hi there 👋
 
 - 🌱 I’m currently learning Solidity, Circom and Rust :)
 
@@ -30,3 +45,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ -->
