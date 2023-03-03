@@ -7,7 +7,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joaopedrocyrino&theme=dark&hide_border=true)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=joaopedrocyrino&icon=5&color=3)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=joaopedrocyrino&icon=5&color=3)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=joaopedrocyrino&label=Profile%20Views&color=6&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
